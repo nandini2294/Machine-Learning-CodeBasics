@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Python virtual environments
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# UV / Python tooling
+.python-version
+
+# Editor
+.vscode/
