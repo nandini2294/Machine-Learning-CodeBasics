@@ -15,6 +15,7 @@ Machine Learning course implementation by code basics : https://codebasics.io/co
 6. `jupyter kernelspec list` confirm kernel registration
 7. Go to jupyter notebook , select kernel for jupyter notebook
 8. IF your kernel , doesn't show up then click "CMD + Shift + P" and click on "Developer: Reload Window" and then try find the kernel again
+9. Do `uv sync` if at any point when you re-open again and you cant find kernel 
 <!-- 8. Run `uv run jupyter notebook`  -->
 
 # uv commands to manage packaging
