@@ -14,6 +14,7 @@ Machine Learning course implementation by code basics : https://codebasics.io/co
 5. Run `python -m ipykernel install --user --name=ml-codebasics --display-name "ML CodeBasics (uv)"` - register your environment as a Jupyter kernel
 6. `jupyter kernelspec list` confirm kernel registration
 7. Go to jupyter notebook , select kernel for jupyter notebook
+8. IF your kernel , doesn't show up then click "CMD + Shift + P" and click on "Developer: Reload Window" and then try find the kernel again
 <!-- 8. Run `uv run jupyter notebook`  -->
 
 # uv commands to manage packaging
